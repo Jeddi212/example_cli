@@ -1,0 +1,13 @@
+name: example_cli
+version: 0.1.0
+
+authors:
+  - Jeddi212 <jedediahf51@gmail.com>
+
+targets:
+  example_cli:
+    main: src/example_cli.cr
+
+crystal: 1.4.1
+
+license: MIT
