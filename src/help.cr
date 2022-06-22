@@ -7,6 +7,7 @@ OptionParser.parse do |parser|
     puts "version 1.0"
     exit
   end
+  
   parser.on "-h", "--help", "Show help" do
     puts parser
     exit
